@@ -37,6 +37,10 @@ body {
   color: white;
 }
 
+.nav-link {
+  padding: 0;
+}
+
 .hero {
   background: image_url('hero.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
